@@ -1,4 +1,5 @@
 #include<stdio.h>
+//判断给定的n位数
 int main()
 {
     int n , num;
